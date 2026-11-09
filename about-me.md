@@ -1,4 +1,4 @@
 # About me
 
-Name: Alon
+Name: Niv Turjeman
 Faculty: Chemical Engineering
