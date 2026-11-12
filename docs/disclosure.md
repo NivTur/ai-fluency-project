@@ -20,4 +20,4 @@ The format, with an example (copy the shape, not the words):
 ```
 
 ## My log
-
+- W02 · Claude Code (Sonnet 5.5) · Used for: Help me research for the proposal, do preliminary analysis (probing RMG and QM9 with scripts), and compose the proposal · Checked by: I went over the actual data, rerunning the numbers several times, questioning calims in the draft and taking the lead in directing the search and methods used during it
